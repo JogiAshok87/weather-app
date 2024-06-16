@@ -19,15 +19,21 @@ The Weather App is a React-based application that allows users to search for wea
 - Dark mode and light mode toggle.
 - Responsive design for various screen sizes.
 
+
 ## Setup and Run Instructions
 
-1. **Clone the repository**:
+1. **Project Setup**
+    Initialize the React project using Create React App:
+
+    npx create-react-app kraftshala_assignment cd kraftshala_assignment
+
+2. **Clone the repository**:
     
-    git clone 
+    git clone https://github.com/JogiAshok87/weather-app.git
     cd kraftshala_assignment
     
 
-2. **Install dependencies**:
+3. **Install dependencies**:
     Make sure you have [Node.js](https://nodejs.org/) installed. Then run:
     ```
     npm install
@@ -42,5 +48,4 @@ The Weather App is a React-based application that allows users to search for wea
 
     This will start the development server and you can view the app by navigating to `http://localhost:3000` in your browser.
 
-
-
+    
