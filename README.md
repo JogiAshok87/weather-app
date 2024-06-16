@@ -1,4 +1,6 @@
 # Weather App
+![image](https://github.com/JogiAshok87/weather-app/assets/113456041/a5d59878-4185-4e9c-8950-f349d20ced94)
+
 
 ## Overview
 
