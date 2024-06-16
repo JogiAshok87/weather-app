@@ -27,7 +27,7 @@ function Weather({ weatherData }) {
         <div className="weather-card">
           <h3>Weather</h3>
           <p>{weather[0].description}</p>
-          <img src="/Weather.png" alt=""/>
+          <img src="/Weather.png" alt="clouds_Img"/>
         </div>
         <div className="weather-card">
           <h3>Humidity</h3>
